@@ -6,7 +6,7 @@ seotitle: "best locks"
 ---
 
 <h1 style="text-align:center;">Locks</h1>
-<h3 class="heading-center">cam</h3>
+<h3 style="text-align:center;"><a href="/lockacc/">Accessories</a></h3>
 
 <table class="basic-table">
 	<tr>
