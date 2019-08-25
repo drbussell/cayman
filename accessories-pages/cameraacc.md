@@ -7,7 +7,7 @@ seotitle: "camera accessories"
 ---
 
 
-<h1 style="text-align:center;>Camera accessories</h1>
+<h1 style="text-align:center;">Camera accessories</h1>
 <h3 class="heading-center">cam</h3>
 
 <table class="basic-table">
