@@ -1,7 +1,5 @@
 ---
 layout: default
-title: livingsecured
-permalink: "/home/"
 ---
 <h2 style="text-align:center;">
    <nav>
