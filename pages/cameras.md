@@ -8,7 +8,7 @@ seotitle: "security cameras"
 
 
 <h1 style="text-align:center;">Security Cameras</h1>
-<h3 class="heading-center">
+<h3 style="text-align:center;">
 	<a href="/cameraacc/">Accessories</a>
 </h3>
 
