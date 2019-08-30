@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
@@ -292,3 +293,10 @@ defaults:
       comments: # true
       share: true
       related: true
+=======
+title: livingsecured
+description: Here to secure the people
+show_downloads: False
+google_analytics:
+theme: jekyll-theme-cayman
+>>>>>>> 6eb33693f16c42058ee939a40daf5a05ff2beea1
